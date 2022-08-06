@@ -1,4 +1,4 @@
-Sitemap: indymnv.github.io/myBlog/sitemap.xml
+Sitemap: indymnv.github.io/myblog/sitemap.xml
 
 User-agent: *
 Disallow:
