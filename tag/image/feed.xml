@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  Franklin Template  ]]>
     </title>
-    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <link> indymnv.github.io/myBlog </link>
     <description>
       <![CDATA[  Example website using Franklin  ]]>
     </description>
     <atom:link
-      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      href="indymnv.github.io/myBlog/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
