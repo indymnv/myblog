@@ -17,7 +17,7 @@ website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 +++
-@def prepath = "myBlog"
+@def prepath = "myblog"
 @def website_url = "indymnv.github.io/myblog"
 <!--
 Add here global latex commands to use throughout your pages.
