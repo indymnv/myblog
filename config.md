@@ -5,7 +5,7 @@ Add here global page variables to use throughout your website.
 @def website_descr = "Example website using Franklin" 
 @def website_url = "indymnv.github.io/myblog"
 
-@def author = "Septimia Zenobia"
+@def author = "Indy Michael"
 
 @def mintoclevel = 2
 
