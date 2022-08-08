@@ -8,6 +8,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>indymnv.github.io/myblog/posts/test_post/index.html</loc>
+    <lastmod>2022-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>indymnv.github.io/myblog/index.html</loc>
     <lastmod>2022-08-08</lastmod>
     <changefreq>monthly</changefreq>

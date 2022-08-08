@@ -23,7 +23,26 @@
 
 <item>
   <title>
-    <![CDATA[  More goodies  ]]>
+    <![CDATA[  Benefits of writing blog posts  ]]>
+  </title>
+  <link> indymnv.github.io/myblog/posts/test_post/index.html </link>
+  <guid> indymnv.github.io/myblog/posts/test_post/index.html </guid>
+  <description>
+    <![CDATA[  Convincing myself of why writing is a good habit to have.  ]]>
+  </description>  
+    
+  <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Indy Michael</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Blog  ]]>
   </title>
   <link> indymnv.github.io/myblog/Blog/index.html </link>
   <guid> indymnv.github.io/myblog/Blog/index.html </guid>
