@@ -9,5 +9,5 @@ tags = ["syntax", "code", "image"]
 +++
 
 # Blog
-
-[An Internal Link test](https://github.com/indymnv/myblog/posts/test_post.md)
+{{myblogposts}}
+[An Internal Link test](../../myBlog/posts/test_post.md)
