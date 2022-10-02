@@ -10,4 +10,4 @@ tags = ["syntax", "code", "image"]
 
 # Blog
 {{myblogposts}}
-[An Internal Link test](../../myBlog/posts/test_post.md)
+[The Purpose of this Blog](../../myBlog/posts/001_publish.md)
