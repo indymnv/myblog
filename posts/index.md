@@ -7,4 +7,4 @@ image = "/assets/self.jpg"
 
 # Posts
 
-* [test post para publicar](/posts/test_post/)
+* [The Purpose of this Blog](/posts/001_publish/)
